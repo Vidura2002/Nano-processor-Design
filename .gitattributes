@@ -1,6 +1,1 @@
-*.css linguist-detectable=false
-*.java linguist-detectable=false
 *.vhdl linguist-detectable=true 
-*.js linguist-detectable=false
-*.html linguist-detectable=true 
-*.xml linguist-detectable=false
