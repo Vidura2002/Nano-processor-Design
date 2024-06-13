@@ -1,0 +1,16 @@
+                     Nano processor Design Project ---> Group 35
+
+* In this project we need to calculate of total between the numbers 1 and 3. After show the results using LEDs and Seven segment display.
+
+* Clock and Reset are the only inputs to the processor. We can Reset the design anytime using U17 button.
+
+* Always our output store in Register 7. This Register 7 output connected to LD0-LD3.
+
+* Otherwise Register 7 output shows on Seven segment displays of Basys3 Board.
+
+* Overflow of addition/subtract indicates using LD15 LED of Basys3 Board. By using this LED we can check whether there is a overflow or not.
+
+* Zero flag of addition/subtract indicates using LD14 LED of Basys3 Board. This LED indicate whether our addition/subtract result is zero or not.
+
+* we can check the output of the register 7 is odd or even number. That indicate using LD13 LED of Basys3 Board.
+
